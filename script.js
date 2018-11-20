@@ -9,4 +9,4 @@
 // You can name the functions anything you want, but pick something that indicates action.
 
 
-// Section 4:  Make separate functions to submit a name and pick a winner.
+// Section 4: Make separate functions to submit a name and pick a winner.
